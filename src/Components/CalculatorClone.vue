@@ -106,6 +106,7 @@
   
   .zero {
     grid-column: 1 / 3;
+    
   }
   
   .btn {
